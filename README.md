@@ -1,7 +1,7 @@
 # S.L.A.G.
 ## Seung Lee's Animal Gauntlet
 
-#### By _**Seung Lee, Filmer Tolentino, Matt Herbert, Sandra Tena, Alex Shelvin, Ryan DeFea, Garrett Hays**_  
+#### By _**Seung Lee, Filmer Tolentino, Matt Herbert, Sandra Tena, Alex ShevLin, Ryan DeFea, Garrett Hays**_  
 
 #### _An API-driven battle game._  
 
