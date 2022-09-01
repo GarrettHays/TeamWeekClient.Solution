@@ -1,5 +1,4 @@
 # S.L.A.G.
-## Seung Lee's Animal Gauntlet
 
 #### By _**Seung Lee, Filmer Tolentino, Matt Herbert, Sandra Tena, Alex ShevLin, Ryan DeFea, Garrett Hays**_  
 
